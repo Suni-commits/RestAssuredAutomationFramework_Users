@@ -4,15 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87d4167a-7bb8-41c1-81ed-557397581779" name="Changes" comment="" />
+    <list default="true" id="87d4167a-7bb8-41c1-81ed-557397581779" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Restassured/endpoints/APIConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Restassured/endpoints/APIConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Restassured/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Restassured/modules/PayloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Restassured/pojos/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Restassured/pojos/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Restassured/pojos/UsersResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Restassured/pojos/UsersResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Restassured/Tests/Integration/CRUD/IntegrationFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Restassured/Tests/Integration/CRUD/IntegrationFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Restassured/Tests/Integration/Sample/VerifyCreaitonofUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Restassured/Tests/Integration/Sample/VerifyCreaitonofUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Restassured/asserts/AssertActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Restassured/asserts/AssertActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Restassured/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Restassured/base/BaseTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Suni-commits/RestAssuredAutomationFramework_Users.git",
+    "accountId": "bdace0d3-2876-4cc8-aef2-5d0097ca3190"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2qQYItQYRZstnjbwNsvoQHIl0L5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,9 +51,70 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Mohanshiva/Documents/New folder/RestAssuredAutomationFramework_Users/testng.xml.executor": "Run",
+    "TestNG.IntegrationFlow.executor": "Run",
+    "TestNG.IntegrationFlow.test_CreatenewUser.executor": "Run",
+    "TestNG.VerifyCreaitonofUser.test_CreatenewUser.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/Mohanshiva/Documents/New folder/RestAssuredAutomationFramework_Users/testng.xml">
+    <configuration name="C:/Users/Mohanshiva/Documents/New folder/RestAssuredAutomationFramework_Users/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomationFramework_Users" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegrationFlow.test_CreatenewUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomationFramework_Users" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Restassured.Tests.Integration.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Restassured.Tests.Integration.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.Restassured.Tests.Integration.CRUD.IntegrationFlow" />
+      <option name="METHOD_NAME" value="test_CreatenewUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyCreaitonofUser.test_CreatenewUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomationFramework_Users" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Restassured.Tests.Integration.Sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Restassured.Tests.Integration.Sample" />
+      <option name="MAIN_CLASS_NAME" value="com.Restassured.Tests.Integration.Sample.VerifyCreaitonofUser" />
+      <option name="METHOD_NAME" value="test_CreatenewUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Mohanshiva/Documents/New folder/RestAssuredAutomationFramework_Users/testng.xml" />
+        <item itemvalue="TestNG.IntegrationFlow.test_CreatenewUser" />
+        <item itemvalue="TestNG.VerifyCreaitonofUser.test_CreatenewUser" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
